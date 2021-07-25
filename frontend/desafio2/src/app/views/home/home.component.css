@@ -1,0 +1,36 @@
+/*
+rem fonte se baseia na sua pagina inteira
+em fonte se baseia no tamanho anterior
+*/
+
+
+
+.home .title {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-left: 6.25rem;
+
+}
+
+.home .subtitle {
+  font-size: 1.5rem;
+  margin-left: 6.25rem;
+}
+
+
+button{
+  margin-right: 10px;;
+  align-items: center;
+  justify-content:center;
+}
+
+button:hover{
+  background-color:rgb(194, 12, 148);
+}
+
+.cadastros{
+  background-image: url(../../../assets/img/bg.jpg);
+  background-repeat: no-repeat;
+  height:500px;
+}

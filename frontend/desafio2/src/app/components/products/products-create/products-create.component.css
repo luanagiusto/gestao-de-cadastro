@@ -1,0 +1,16 @@
+
+form {
+  display: flex;
+  flex-direction: column;
+  /* width: 300px; */
+  margin-top: 20px;
+}
+
+button {
+  margin: 20px 15px 0px 0px
+}
+
+mat-card {
+  width: 400px;
+  position: inherit;
+}

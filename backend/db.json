@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Garra de grifo",
+      "price": "25.49"
+    },
+    {
+      "id": 2,
+      "name": "Pó de pirlimpimpim",
+      "price": 12.49
+    },
+    {
+      "id": 3,
+      "name": "Chifre de unicórnio",
+      "price": 3500.49
+    },
+    {
+      "name": "Pedra Onix",
+      "price": "14.89",
+      "id": 6
+    },
+    {
+      "name": "Dente de Wyrn",
+      "price": 1.99,
+      "id": 7
+    },
+    {
+      "name": "Asas de grifo",
+      "price": "800000",
+      "id": 8
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Clotilde",
+      "lastname": "Santos",
+      "email": "clotilde-santos@email.com",
+      "password": "clo-clo"
+    },
+    {
+      "name": "Epaminondas",
+      "lastname": "Swain",
+      "email": "epa-swain@email.com",
+      "password": "5patinhos",
+      "id": 2
+    },
+    {
+      "name": "Godofredo",
+      "lastname": "Stuart",
+      "email": "ratatouille@email.com",
+      "password": "cooorrreee",
+      "id": 3
+    },
+    {
+      "name": "Astolfo",
+      "lastname": "Marcontes",
+      "email": "astolfinhoreidelas@msn.com",
+      "password": "aminhasenhaé123456",
+      "id": 4
+    }
+  ]
+}
