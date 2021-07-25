@@ -21,3 +21,4 @@ API:
 - Cadastro de clientes: http://localhost:3000/clients
 - Cadastro de produtos: http://localhost:3000/products
 
+![Screenshot_1](https://user-images.githubusercontent.com/73751801/126915503-c6efe472-35d1-4d6e-a8ef-409d3d50b263.png)
